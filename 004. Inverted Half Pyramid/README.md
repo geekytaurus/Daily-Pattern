@@ -1,5 +1,5 @@
 
-<h2 align="center" > --------------------------- Inverted Half Pyramid --------------------------- </h2>
+<h2 align="center" > -------------------------  Inverted Half Pyramid  -------------------------- </h2>
 
 
 ### Looks like :
