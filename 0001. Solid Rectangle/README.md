@@ -5,7 +5,7 @@
 ### Looks like :
 
 
-  <a target="_blank" href="tryit.asp?filename=trycss_text"><pre>
+  <a  href="tryit.asp?filename=trycss_text"><pre>
                * * * * * * * * * * * *
                * * * * * * * * * * * *
                * * * * * * * * * * * *
