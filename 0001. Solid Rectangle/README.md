@@ -5,10 +5,11 @@
 ### Looks like :
 
 
-  <a  href="tryit.asp?filename=trycss_text"><pre>
+
+   <pre>
                * * * * * * * * * * * *
                * * * * * * * * * * * *
                * * * * * * * * * * * *
                * * * * * * * * * * * *
-  </pre></a>
+          </pre>
   
