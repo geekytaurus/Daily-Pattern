@@ -12,7 +12,13 @@ int main(){
       }
       for( j = 1; j <= i; j++){
           if(j == 1 || i == rows){
-              printf("%d ", j);
+            if(j <= 9){
+               printf("%d ", j);
+            }
+            else{
+                printf("%d", j);
+            }
+              
           }
           else{
               printf(" ");
