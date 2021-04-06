@@ -14,7 +14,13 @@ int main(){
       }
       for(int j = 1; j <= i; j++){
           if(j == 1 || i == rows){
-              cout << j << " ";
+              if(j <= 9){
+                  cout << j << " ";
+              }
+              else{
+                  cout <<j;
+              }
+              
           }
           else{
               cout << " ";
