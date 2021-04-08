@@ -16,7 +16,7 @@ class fullTri_Nums{
             }
     
             for(j = 1; j <= i; j++){
-                if(k >= 10){
+                if(k+1 >= 10){
                     System.out.print(++k);
                 }
                 else{
@@ -26,7 +26,7 @@ class fullTri_Nums{
             }
     
             for(j = i+1; j <= 2*i-1; j++){
-                if(k >= 10 ){
+                if(k-1 >= 10 ){
                     System.out.print(--k);
                 }
                 else{
