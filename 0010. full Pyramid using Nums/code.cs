@@ -1,7 +1,7 @@
 using System;
 
 
-namespace PlusSign
+namespace FullPyramid
 {
     class Program
     {
