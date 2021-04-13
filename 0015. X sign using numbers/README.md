@@ -1,6 +1,6 @@
 
 
-<pre><h1 align="center">----------  Number Pattern #1  ----------</h1></pre>
+<pre><h1 align="center">----------  X sign using numbers  ----------</h1></pre>
 
 
 ### Looks like:
