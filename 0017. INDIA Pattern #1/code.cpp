@@ -10,8 +10,15 @@ int main(){
 
     for(i=0; s[i]; i++)
     {
-        for(j=0; j<=i; j++)
-            cout << s[j];
+
+        for(j=0; j<=i; j++){
+            if(j == i){
+                cout << s[j];
+            }
+            else{
+                cout << s[j] <<"~";
+            }
+        }         
         cout << endl;
     }
 
