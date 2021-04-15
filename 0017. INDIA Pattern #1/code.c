@@ -8,8 +8,14 @@ int main()
 
     for(i=0; s[i]; i++)
     {
-        for(j=0; j<=i; j++)
-            printf("%c", s[j]);
+        for(j=0; j<=i; j++){
+            if(j == i){
+                printf("%c", s[j]);
+            }
+            else{
+                printf("%c~", s[j]);
+            }
+        }
         printf("\n");
     }
 
