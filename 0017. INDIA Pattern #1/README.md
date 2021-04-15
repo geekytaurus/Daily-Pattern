@@ -7,9 +7,9 @@
 
 <pre>
                  I
-                 IN
-                 IND
-                 INDI
-                 INDIA
+                 I~N
+                 I~N~D
+                 I~N~D~I
+                 I~N~D~I~A
 
 </pre>
