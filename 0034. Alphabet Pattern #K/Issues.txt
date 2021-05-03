@@ -1,0 +1,1 @@
+for height >= 10 , Pattern is not align properly.
