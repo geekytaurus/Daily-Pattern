@@ -1,6 +1,4 @@
 import java.util.Scanner;
-// import java.lang.Math;
-
 
 public class Qpat {
      static void printO(int height)
