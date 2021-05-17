@@ -4,7 +4,7 @@
 int main(){
     int height;
 
-    printf("\nEnter the height of Y : ");
+    printf("\nEnter the height(odd number) of Y : ");
     scanf("%d", &height); 
 
      printf("\n");
