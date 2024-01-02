@@ -6,6 +6,8 @@ public class Solid_rectangle {
 	{
 		int rows, columns, i, j;
 		sc = new Scanner(System.in);
+
+		System.out.println("***** Solid Rectangle *****");
 		
 		System.out.print(" Please Enter Number of Rows : ");
 		rows = sc.nextInt();	
